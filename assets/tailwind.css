@@ -2697,6 +2697,7 @@ video {
 
 .border-b-8 {
   border-bottom-width: 3px;
+  margin: 0px;
 }
 
 .border-t {
